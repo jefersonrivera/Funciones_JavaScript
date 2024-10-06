@@ -1,0 +1,13 @@
+/* ejemplo del desafio */
+#ele1 {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  justify-content: center;
+}
+
+/* solucion al requerimiento*/
+h1 {
+  color: green;
+}

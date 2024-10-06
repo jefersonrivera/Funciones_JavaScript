@@ -1,0 +1,39 @@
+#ele1 {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  align-content: center;
+  color: white;
+}
+#ele2 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  align-content: center;
+  color: white;
+}
+#ele3 {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  align-content: center;
+  color: white;
+}
+#ele4 {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  align-content: center;
+  color: white;
+}
+.container {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+}
+#key {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: black solid 2px;
+}
